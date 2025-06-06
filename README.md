@@ -9,4 +9,4 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Atualmente, estudo na UNB no curso de computação...apaixonado por tecnologia em especial, desenvolvimento mobile com flutter e dart.
+Atualmente, cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília ...apaixonado por tecnologia em especial, desenvolvimento mobile com flutter e dart e backend com Java e Spring Boot.
